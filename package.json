@@ -1,0 +1,21 @@
+{
+  "name": "my-gridsome-blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/source-strapi": "^0.2.0",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "dayjs": "^1.10.4",
+    "element-ui": "^2.14.1",
+    "gridsome": "^0.7.0",
+    "markdown-it": "^12.0.4"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
