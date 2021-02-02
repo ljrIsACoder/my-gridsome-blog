@@ -21,6 +21,9 @@ export default {
         }
     },
     methods: {
+        selectMenu (index) {
+            this.$router.push(index)
+        }
     }
 }
 </script>
