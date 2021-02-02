@@ -48,12 +48,12 @@ query {
             icon: 'el-icon-star-off'
           },
           {
-            path: '/Posts',
+            path: '/posts',
             title: '博客列表',
             icon: 'el-icon-edit-outline'
           },
           {
-            path: '/Tags',
+            path: '/tags',
             title: '标签列表',
             icon: 'el-icon-price-tag'
           },
